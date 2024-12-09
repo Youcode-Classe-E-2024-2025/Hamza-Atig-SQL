@@ -120,7 +120,7 @@ CREATE TABLE auteurs_packages (
 ## Configure Database Connection:
 Edit config/db.php with your MySQL credentials.
 ### Run the Project:
-Open your browser and go to: http://localhost/package-management-system/
+Open your browser and go to: http://localhost/your-project-path/
 ## Login Credentials
 
 - **Admin Login**:
