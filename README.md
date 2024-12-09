@@ -118,7 +118,7 @@ CREATE TABLE auteurs_packages (
 ```
 
 ## Configure Database Connection:
-Edit config/db.php with your MySQL credentials.
+Edit `config/db.php` with your MySQL credentials.
 ### Run the Project:
 Open your browser and go to: http://localhost/your-project-path/
 ## Login Credentials
