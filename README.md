@@ -78,7 +78,7 @@ ORDER BY p.nom_package
 
 ### Clone the Repository:
 ```
-git clone https://github.com/yourusername/package-management-system.git
+git clone https://github.com/Youcode-Classe-E-2024-2025/Hamza-Atig-SQL.git
 ```
 
 ### Install XAMPP or LAMP:
@@ -153,8 +153,6 @@ package-management/
 │   ├── login.php              # Login page
 │   └── logout.php             # Logout script
 └── README.md                  # Project README file
-
-
 ```
 ## Contributing
 - Fork the repository.
